@@ -25,6 +25,8 @@ Enter a food: _cake_
 
 Enter a vehicle: _car_
 
-`_Julia_ is a very _cool_ person to be around. They love to _cook_ in _home_. Their favourite food is _cake_ which they eat in a _car_. `
+## Output 
 
-Note that the _italic_ words are actually your variables. Your sentence is supposed to not make sense as well! (Note the bad grammar). 
+_Julia_ is a very _cool_ person to be around. They love to _cook_ in _home_. Their favourite food is _cake_ which they eat in a _car_. 
+
+> Note that the _italic_ words are actually your variables. Your sentence is supposed to not make sense as well! (Note the bad grammar). 
